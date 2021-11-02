@@ -1,0 +1,7 @@
+paddlepaddle
+heapq
+traitlets
+opencv-python
+numpy
+torch
+git+https://github.com/WenmuZhou/reprod_log.git --force-reinstall
